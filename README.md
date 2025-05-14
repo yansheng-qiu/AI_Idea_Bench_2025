@@ -187,5 +187,6 @@ This repository is under the Apache-2.0 license. For commercial use, please cont
 This repository is based on the following Github repositories. Thanks to the following public repositories:
 - [AI-Scientist](https://github.com/SakanaAI/AI-Scientist)
 - [CoI-Agent](https://github.com/DAMO-NLP-SG/CoI-Agent)
+- [VIRSC](https://github.com/open-sciencelab/Virtual-Scientists)
 
 **Note:** This is a research level repository and might contain issues/bugs. Please contact the authors for any query.
