@@ -40,7 +40,7 @@ def search_for_papers(query, result_limit=10, publicationDateOrYear=None) -> Uni
 
 def save_json(data, file_path):
     with open(file_path, 'w') as file:
-        json.dump(data, file, indent=4)
+        json.dump(data, file, ensure_ascii=False, indent=4)
 
 
 import math
