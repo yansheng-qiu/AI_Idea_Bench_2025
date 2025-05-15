@@ -149,7 +149,7 @@ Set your deepseek api in extract_hd_cd_paper.py lines 96-98
 ```bash
 python extract_hd_cd_paper.py
 ```
-**Attention !!** There will be a failure to parse papers here, this is because some papers cannot be downloaded via the script. For this problem, we are manually to download again.
+**Attention !!** Here there may be a failure to parse the paper, this is because some papers cannot be downloaded through the script. For this issue, we will manually re-download those papers that cannot be parsed.
 
 
 Set your deepseek api in Novelty.py lines 288-292
