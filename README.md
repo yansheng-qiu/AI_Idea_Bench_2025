@@ -18,6 +18,12 @@ We propose an evaluation framework that aligns generated research ideas with the
 
 ## 🚀 Pipline
 
+### Create the enviroment
+
+```bash
+pip install requirements.txt
+```
+
 ### Data preparation
 
 Download the data from <a href="https://huggingface.co/datasets/yanshengqiu/AI_Idea_Bench_2025">[Huggingface]</a> and then get the path to the data,
